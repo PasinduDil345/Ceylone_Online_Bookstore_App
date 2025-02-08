@@ -1,6 +1,6 @@
 📖  Online Bookstore App
 
-Welcome to Digital Book Hub, the ultimate platform for discovering and purchasing books with ease! This app, built using Flutter, ensures a smooth and interactive experience for book lovers.
+Welcome to  Online Bookstore App, the ultimate platform for discovering and purchasing books with ease! This app, built using Flutter, ensures a smooth and interactive experience for book lovers.
 
 🌟 Highlights
 
